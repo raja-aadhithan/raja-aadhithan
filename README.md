@@ -25,7 +25,7 @@
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=raja-aadhtihan5&show_icons=true&locale=en" alt="raja-aadhtihan"/> &nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raja-aadhtihan&show_icons=true&locale=en&layout=compact" alt="raja-aadhtihan"/></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=raja-aadhtihan&show_icons=true&locale=en" alt="raja-aadhtihan"/> &nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raja-aadhithan&show_icons=true&locale=en&layout=compact" alt="raja-aadhithan"/></p>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raja-aadhtihan" alt="raja-aadhtihan" /></a></p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raja-aadhithan" alt="raja-aadhithan" /></a></p>
